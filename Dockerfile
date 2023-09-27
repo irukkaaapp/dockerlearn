@@ -1,7 +1,7 @@
 FROM node:16
 
 
-WORKDIR /usr/src/app
+WORKDIR /home/premk/app/dockerlearn
 
 
 COPY nest-js-starter/package*.json ./
